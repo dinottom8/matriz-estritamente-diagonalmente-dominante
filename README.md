@@ -1,0 +1,1 @@
+# matriz-estritamente-diagonalmente-dominante
